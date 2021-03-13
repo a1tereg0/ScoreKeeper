@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="view_teamA">TeamA</string>
+    <string name="view_teamB">TeamB</string>
+    <string name="button_addScore">+</string>
+    <string name="scoreDefaultValue">0</string>
+    <string name="button_removeScore">-</string>
+    <string name="score1">1 point</string>
+    <string name="score2">2 points</string>
+    <string name="score3">3 points</string>
+</resources>
